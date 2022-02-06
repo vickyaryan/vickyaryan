@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm vicky</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
+<p align="left"><img align="center" src="https://dragons-stores.us/vicky.gif" alt="" height="100%" width="100%" />
+  </p>
+
 - 📫 How to reach me **thevickyaryan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
