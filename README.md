@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm vicky</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vickyaryan&label=Profile%20views&color=0e75b6&style=flat" alt="vickyaryan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickyaryan" alt="vickyaryan" /></a> </p>
-
 - 📫 How to reach me **thevickyaryan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
